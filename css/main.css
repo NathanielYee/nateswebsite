@@ -452,8 +452,8 @@ position: relative;
 /* Footer */
 
 .footer {
-  background: #111;
-  color: var(--clr-accent);
+  background: #fde9d1;
+  color: var(--clr-dark);
   text-align: center;
   padding: 2.5em 0;
       font-size: var(--fs-h3);
